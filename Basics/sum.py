@@ -20,5 +20,3 @@ No, really, it doesn't do anything.
    """
    pass
 print(my_function.__doc__)
-
-print("hello")
